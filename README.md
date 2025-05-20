@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Weather PRediction 
 
 A simple Streamlit app template for you to modify!
 
